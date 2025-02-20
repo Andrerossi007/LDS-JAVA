@@ -1,4 +1,4 @@
-package main.java.br.fai.lds;
+package br.fai.lds;
 
 import java.util.Scanner;
 
